@@ -11,9 +11,7 @@ void main() async {
         ),
         body: const Center(
           child: Image(
-            image: NetworkImage(
-              "https://imgv3.fotor.com/images/slider-image/A-blurry-image-of-a-woman-wearing-red.jpg",
-            ),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
