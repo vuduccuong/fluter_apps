@@ -1,0 +1,7 @@
+arb-dir: lib/l10n
+template-arb-file: bottom_nav_en.arb
+output-class: BottomNavLocalizations
+output-localization-file: bottom_nav_localizations.dart
+preferred-supported-locals:
+  - en
+  - vi
