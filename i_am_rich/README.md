@@ -1,2 +1,4 @@
-# Tạo app icon
-> site: https://www.appicon.co/
+# Free icon
+## site
+> https://icons8.com/
+> https://www.vecteezy.com/

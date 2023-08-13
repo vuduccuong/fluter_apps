@@ -4,17 +4,16 @@ void main() async {
   runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.amber[300],
         appBar: AppBar(
-          backgroundColor: Colors.amber,
-          title: const Text("I Am Rich"),
+          backgroundColor: Colors.blueAccent[200],
+          title: const Text("I Am Poor"),
         ),
         body: const Center(
           child: Image(
-            image: AssetImage('images/diamond.png'),
+            image: AssetImage("images/i_am_poor_icon.png"),
           ),
         ),
-      ),
-    ),
+      )
+    )
   );
 }
